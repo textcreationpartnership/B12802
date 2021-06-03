@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copie of the principall parts of His Maiestie commissions for granting pardons to such as vse trades, whereto they haue not been apprentices, and for dispencing with them to continue the same for their liues, notwithstanding the statute of Quinto Elizabeth</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12802</idno><idno type="EEBO-CITATION">22343498</idno>
+  <idno type="VID">178442</idno>
+  <idno type="EEBO-PROQUEST">2264199562</idno>
+  <idno type="STC">STC 8597.5</idno>
+  <idno type="STC">ESTC S122298</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.  Navigations series.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12802)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178442)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1686:40 or 1752:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copie of the principall parts of His Maiestie commissions for granting pardons to such as vse trades, whereto they haue not been apprentices, and for dispencing with them to continue the same for their liues, notwithstanding the statute of Quinto Elizabeth</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>[2] leaves.   </extent>
+               <publicationStmt>
+                  <publisher>By Iohn Beale,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1619.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A seven-year grant to Sir James Spens, Archibald Primrose, Henry Goldsmith, and Robert More.</note>
+                  <note>This item mistakenly omitted from the part 51 reel guide.</note>
+                  <note>Item at reel 1686:40 incorrectly identified as STC 8597.</note>
+                  <note>Reproductions of original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Apprentices --  England.</term>
+               <term type="topical_term">Proclamations --  Great Britain.</term>
+               <term type="geographic_name">Great Britain --  History --  James I, 1603-1625.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1603-1625.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:178442:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>I R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <head>¶ A Copie of the principall parts of his Maiestie Commissions for granting of Pardons to such as vse Trades, whereto they haue not been Apprentices, and for dispencing with them to continue the same for their Liues, notwithstanding the Statute of <hi>Quinto Elizabeth.</hi>
+            </head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">I</seg>AMES by the grace of God, King of England, Scotland, France, and Ireland, Defender of the Faith, &amp;c.</signed>
+               <salute>
+                  <hi>To</hi> all to whom these presents shall come greeting.</salute>
+            </opener>
+            <p>
+               <hi>Whereas</hi> there is nothing more pleasing to God, and profitable to the Common-wealth of this Our Realme, then the training vp of youth in good and commendable Arts, Trades, Sciences, and Mysteries, whereby they may be, not onely kept from idlenesse and sloth, (the parent of all enormities) but also made apt and expert for the seruice of the Common-wealth, in the vse and practise of those Arts and misteries wherin they haue been educated and brought vp: To which end and purpose, diuers good and wholsome lawes haue beene made within this Our Realme of England; as namely, in the fift yeare of the raigne of our late deare Sister of famous memorie <hi>Elizabeth,</hi> late Queene of England, <hi>Capite quarto,</hi> a certaine Act or Statute was made, entituled, <hi>An Act touching diuers Orders for Artificers, labourers, seruants of Husbandrie, and Apprentices;</hi> Wherein it is (amongst diuers other things) enacted, that after the fift day of May then next comming, it should not be lawfull to any person or persons (other then such as then did lawfully vse or exercise any Art, Mysterie, or Manuall occupation) to set vp, occupie, vse, or exercise any Craft, Mysterie, or Occupation then vsed, or occupied within the Realme of England or Wales, except he should haue beene brought vp therein seauen yeeres at the least as an apprentice, in manner and forme as in the said Statute is expressed; nor to set any person on work in such Mystery, Art, or Occupation, being not a workman at that day, except he should haue beene apprentice, as is aforesaid, or else hauing serued as an apprentice, as is aforesaid, should or would become a Iornyman, or hired by the yeare: Vpon paine that euery such person, willingly offending or doing the contrary should forfeit and lose for euery default, Fortie shillings for euery moneth; As by the said Statute (a<g ref="char:EOLhyphen"/>mongst diuers other things) more at large appeareth. And whereas the said Statute is of great vse and importance in this Our Realme, as well for the trayning vp of youth in the knowledge and practise of sundry good and commendable Arts Trades, Misteries, and manuall Occupations, whereby they may liue and be maintai<g ref="char:EOLhyphen"/>ned, as otherwise for the benefit of our said Realme. And whereas through the neglect of the due execution of the said Statute, diuers and sundry persons within this our said Realme haue taken vpon them to occupie, vse, &amp; exercise sundry Arts, Mysteries Crafts, and manuall Occupations, wherein they haue not bin brought vp as apprentices by the space of seuen yeares, and haue also otherwise offended against the forme and intent of the said Statute: In which said Arts, Trades, and Mysteries, the said persons hauing now by the space of many yeares together imployed and bestowed themselues, their labours, stocks▪ and industries, haue now attained a good and perfect knowledge and vnderstanding in the same, and are become setled in a constant Trade and condition of life, whereby they are enabled com<g ref="char:EOLhyphen"/>petently to maintaine themselues and families, which otherwise were like to perish, and fall into some idle and inordinate course of liuing, in case they should be now restrained of and from the vsing and exercising of the same, or should be punished according to the true intent &amp; meaning of the said Statute, as many of them here<g ref="char:EOLhyphen"/>tofore h<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ue beene by informations and suits brought and prosecuted against them by common Informers and others, to whom they are still exposed, and lie open to be molested, sued▪ and inquieted by the like Informations and sutes. Vnlesse we out of Our Royall and Princely compassion shall prouide some meanes to relieue them in th<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s behalfe. <hi>Know yee</hi> therefore, that we tendring the publike good of our Realmes (which especially is procured by the due execution of good and profitable lawes) doe hereby for Vs, our Heires and Successors straightly charge, require, and command all and euery our Iudges and Iustices of both our Benches, Bar<g ref="char:EOLhyphen"/>rons of the Exchequer, Iustices of the Peace, Maiors, Sheriffes, Bayliffes, and all and euery other Magistrates, and other Officers, for the time being, to whom it shall or may appertaine, That they and euery of them in their seuerall places respectiuely, doe take care, and from henceforth see to the due execution of the said Statute, as well touching the training vp of apprentices in commendable Arts and Misteries, (whereby they may not be suffered to liue idly and inordinately, but being therein well instituted in their apprentiships may afterwardes become profitable members and seruiceable to the Common-wealth) as in the restraining of others, (not so trained and brought vp) from the practise and exercise of any Art, Trade, or Mysterie, contrary to the said recited Statute, or any branch or clause therein contained: vnder the paines and penalties expressed in the same, which hereafter We will shalbe duely leuied and executed vpon such as shalbe found offen<g ref="char:EOLhyphen"/>ders therein. <hi>Neuerthelesse,</hi> We being graciously pleased to extend our Royall fauour towardes such of our Subiects, as hauing heretofore taken vppon them, and are now become setled and expert in the vse and practise of Trades, Artes, Mysteries, and manuall Occupations, whereunto they haue not beene brought vp as ap<g ref="char:EOLhyphen"/>prentices, as aforesaid, according to the forme of the said Statute, as well by <hi>pardoning</hi> their offences in that behalfe <hi>past,</hi> as also by <hi>licensing</hi> and <hi>dispensing</hi> with them for <hi>continuing</hi> the same Arts and Trades for the time to come, for and during their <hi>liues,</hi> And minding to free and acquit them for euer from those molestations, <hi>sutes</hi> and <hi>troubles</hi> which they haue been <hi>heretofore</hi> and might <hi>hereafter</hi> be put vnto by <hi>Informers,</hi> and others, by meanes of the premisses, in case they shall not imbrace our Princely grace in this behalfe. And willing that the rigor of the said Statute shall not be exacted or inflicted vpon such of our louing Subiects, as haue transgres<g ref="char:EOLhyphen"/>sed the said Statute, and lie open and exposed to the penalties thereof, as are yet willing and desirous to take hold of and imbrace this our grace and bountie so fa<g ref="char:EOLhyphen"/>uourably and benignely proffered them. <hi>Know yee</hi> ther<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fore, that We of our especiall grace, certaine knowledge, and meere motion, haue ordained, authorized, na<g ref="char:EOLhyphen"/>med, &amp; appoynted▪ and by these presents for Vs, our Heires, and Successors, doe ordaine, authorize, name, and appoint Our trustie and wel-beloued Sir <hi>Iames Spens</hi> Knight, <hi>Archibald Primrose</hi> Esquire, <hi>Henry Goldsmith</hi> Esquire, and <hi>Robert More</hi> Esquire, to be Our Commissioners for and during the terme of seuen yeeres from the date of these presents, And We doe giue vnto them the said Sir <hi>Iames Spens, Archibald Primrose, Henry Goldsmith,</hi> and <hi>Robert More,</hi> or to any two or more of them,
+<pb facs="tcp:178442:2"/> (whereof the said Sir <hi>Iames Spens,</hi> or <hi>Archibald Primrose</hi> to be one) full power and authority by all lawfull waies or meanes, to inquire and informe themselues of all such person and persons being Tradesmen and Artificers, which before the date of these presents haue vsed, exercised, erected, or set vp any Art, Trade, Mystery, or manuall Occupation, wherunto they haue not been bound or serued as Apprentices, according to the forme of the said recited Statute, and thereupon to treat, contract, <hi>compound,</hi> and agree with all and euery such person and persons, as hath or haue <hi>before the date</hi> hereof <hi>vsed,</hi> erected or set vp, any <hi>Trade,</hi> Art, Mistery, or ma<g ref="char:EOLhyphen"/>nuall Occupation, <hi>contrary</hi> to the forme and effect of the said recited <hi>Statute,</hi> for such reasonable rates, summes of money, fine and fines, yearely paiments, or annuities, as they shall thinke fit, for <hi>pardons, licenses, and dispensation<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> to be made and granted from Vs, Our Heires, and Successors, <hi>vnder the great seale</hi> of <hi>England,</hi> in manner hereafter expressed, to all and euery such person or persons offenders against the said Statute, as shall desire the same, as well for pardoning his or their offences past, as for licensing and dispensing with him and them to vse and exercise such Arts, Trades, Mysteries, or manuall Occupations which he or they respectiuely now doe, or any time before the date hereof haue vsed, set vp, or exercised, for and during the time and space of his and their naturall life and liues, <hi>without sute, Information,</hi> trouble▪ or molestation to be had or prosecuted against him or them, for or concerning the same by any <hi>Informers</hi> or others, or for or concerning any paine, <hi>penaltie,</hi> or forfeiture, mentioned or conteined in the said Statute, by reason of any offence committed, perpetrated, or done contrary to the forme and effect of the same, or any other Statute in that behalfe made to the contrary: And that it shall and may be lawfull to and for the said Sir <hi>Iames Spens, Archibald Primrose, Henry Goldsmith,</hi> and <hi>Robert More,</hi> or any two or more of them (whereof the said Sir <hi>Iames Spens,</hi> or <hi>Archibald Primrose</hi> to be one) to contract, <hi>compound,</hi> and agree with the sayd <hi>of<g ref="char:EOLhyphen"/>fenders,</hi> and euery of them, as wel<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> before Informations, as after Informations against them exhibited in any Court whatsoeuer, for so much thereof as shall concerne Our part, and that before or after plea, or by or without any leaue, licence, or warrant of the Court, where any such Informations shall be exhibited, any Law, Sta<g ref="char:EOLhyphen"/>tute, Constitution, or Ordinance made to the contrary thereof notwithstanding. And furthermore, of Our especiall grace, certaine knowledge, and meere motion, We doe for Vs, Our Heires and Successors, by these presents giue and grant full power and authoritie to Our <hi>Atturney Generall</hi> for the time being, to prepare and draw vp in due forme of law, so many bils or bookes of <hi>pardons, licences,</hi> and <hi>dispensations</hi> for and in the name of Vs▪ Our Heires, and Successors, during the time afore<g ref="char:EOLhyphen"/>said, to be ingrossed and passed vnder Our Great Seale of <hi>England,</hi> as shalbe desired by the said Sir <hi>Iames Spens, Archibald Primrose, Henry Goldsmith,</hi> and <hi>Robert More,</hi> or any two or more of them, (whereof the said Sir <hi>Iames Spens,</hi> or <hi>Archibald Primrose</hi> to be one) for all such person or persons, as they Our said Commissioners, or any two or more of them, (whereof the said Sir <hi>Iames Spens,</hi> or <hi>Archibald Primrose</hi> to be one) shall compound and agr<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e with, for and concerning any the paines, penalties, offences, matters, causes, and premisses aforesaid. Prouided alwayes that in euery such seuerall pardon, licence, or dispensation to be prepared, and pas<g ref="char:EOLhyphen"/>sed vnder Our great Seale as aforesaid, there shall not be conteined or inserted aboue the number of thirtie persons at the most. And Our further Will and pleasure is, And We doe hereby for Vs, Our Heires, and Successors, grant, will, and ordaine that all and euery such pardon, licence, or dispensation, as shall be so made or granted as aforesaid, shalbe good sufficient, and <hi>effectuall in law</hi> to all and euery such person or persons to whom the same shall be made and graunted, to authorise, enable, and <hi>warrant</hi> him and them to the free vse and exercise of all such <hi>Trades,</hi> Arts, Mysteries, and manuall Occupations which he or they at the date of these Our Letters Patents, or at any time before did vse or exercise, whereunto he or they <hi>neuer serued,</hi> or were bound <hi>as Apprentices,</hi> according to the forme of the said Statute, without being sued, molested, questioned, or any way troubled, or enquieted by Vs, Our Heires, or Successors, or by any the Iudges, Iustices of either of Our Ben<g ref="char:EOLhyphen"/>ches, Barons of Our Exchequer, or Our Atturney Generall for the time being, or by any other the Officers, Ministers, and Subiects of Vs, Our Heires, or Suc<g ref="char:EOLhyphen"/>cessors, for, touching, or concerning the practising, vsing, &amp; exercising of his or their said Arts, Trades, Mysteries, or manuall Occupations as aforesaid, contrary to the purport of the said recited Statute, or any other Statute in that behalfe made; The said Statute of <hi>Quinto Elizabeth,</hi> or any clause there<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n conteined to the con<g ref="char:EOLhyphen"/>trary notwithstanding. In which said Letters Patents, or discharge, pardons, and licences of dispensations to be so drawne, or made to any person or persons com<g ref="char:EOLhyphen"/>pounded with as aforesaid, We will shall be conteined therein a clause of expresse charge and command in the name of Vs, our Heires and Successors, to the Iudges and Iustices of both our Benches, Barons of Our Exchequer, Atturney Generall, Iustices of Peace, Maiors, Bayliffes, Aldermen, Sheriffes, Escheators, and all other Officers and Ministers to whom it may or shall appertaine, in their seuerall offices and places respectiuely, that they and euery of them respectiuely, in their se<g ref="char:EOLhyphen"/>uerall offices and places vpon the sight or shewing forth of any such pardon, license, or dispensation, or the inrolement, constat, or exemplification thereof, or a true Coppie of the same signed with the hands of the said Sir <hi>Iames Spens, Archibald Primrose, Henry Goldsmith,</hi> and <hi>Robert More,</hi> or any two or more of them (whereof the said Sir <hi>Iames Spens,</hi> or <hi>Archibald Primrose</hi> to be one) testifying the same, shall forthwith disallow and <hi>discharge all Informations,</hi> sutes, billes, plaints, Iudgements, and actions whatsoeuer, which are or shall be mooued, stirred, commenced, sued, or prosecuted against all or any of the said persons so compounded with, pardoned, licensed, and dispensed with as aforesaid, for or touching any offence or offences, committed, perpetrated, or done contrary to the forme of the said Statute, or any branch or clause therein conteined. And to giue order that no further proscesse or proceedings shall be had or awarded against them or any of them in that behalfe: And these presents shalbe to our said Iudges, Iustices, Barons of Our Exchequer, Atturney Generall, and all other Our said Officers, a sufficient warrant and dis<g ref="char:EOLhyphen"/>charge for the doing and performing of the premisses, according to the tenor and true meaning of these presents. And Our further Will and pleasure is, and We doe hereby require and charge, that from time to time, and at all times hereafter, Our Iudges and Iustices of either of Our Benches, Barons of Our Exchequer, &amp; Our Atturney Generall, and all Iustices of Peace, as well within liberties as without, Maiors, Bayliffes, Aldermen, and chiefe Magistrates of Citties, Boroughes, and Townes Corporate, Sheriffes, Escheators, and all others, to whom it shall or may appertaine, That they and euery of them respectiuely in their seuerall offi<g ref="char:EOLhyphen"/>ces and places, shall at all and euery time and times hereafter, accept, approue, and allow in all and euery Our Court and Courts of Record, and other place and pla<g ref="char:EOLhyphen"/>ces, as well of all and euery such Letters Patents of pardon, licenses, &amp; dispensations, vnder the Great Seale of England, so to be made and granted as aforesaid, as of the inrolement, Constat, or exemplification thereof, or of a true Coppie of the same, vnder the hands of the said Sir <hi>Iames Spens, Archibald Primrose, Henry Goldsmith,</hi> and <hi>Robert More,</hi> or any two or more of them (whereof the said Sir <hi>Iames Spens,</hi> or <hi>Archibald Primrose</hi> to be one) testifying that the said person or persons haue compounded and receiued his Maiesties pardon, licence, or dispensation as aforesaid, as a good, full, and sufficient barre, release, dispensation, and discharge against Vs, Our Heires, and Successors, <hi>without pleading</hi> the said <hi>pardon,</hi> license, or dispensation at large, of, for, or concerning any penalties, or forfeitures accrued, or hereafter to be accrued vnto Vs Our Heires, or Successors, by or from any person or persons, named in the said Letters patents of Pardon, license, and dispensa<g ref="char:EOLhyphen"/>tion for any of the offences and breaches of them or any of them respectiuely committed against the said Statute aboue recited, or any clause or article therein contai<g ref="char:EOLhyphen"/>ned.</p>
+            <closer>
+               <dateline>In witnesse wherof We haue caused these Our Letters to be made Patents, Witnesse Our selfe at <hi>Westminster</hi>
+                  <date>the fourth day of <hi>February,</hi> in the sixteenth yeere of Our Raigne of <hi>England, France,</hi> and <hi>Ireland,</hi> and of <hi>Scotland</hi> the two and fiftieth.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>❧ Printed at London by <hi>Iohn Beale.</hi> 1619.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
